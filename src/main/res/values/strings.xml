@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kursach</string>
+    <string name="text_empty">Заголовок или содержание не заполнено</string>
+    <string name="saved">Сохранено</string>
+
+
+
+</resources>
